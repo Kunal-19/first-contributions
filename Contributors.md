@@ -524,6 +524,7 @@ Nikhil R
 - [Anubhav Kulshreshtha](https://github.com/anubhav1450)
 - [Agung Saputra](https://github.com/Agung1606)
 - [Uloka Ngozi](https://github.com/Gifftybabe)
+- [Kunal](https://github.com/Kunal-19)
 - [Damjan Djukic](https://github.com/DamiGbs)
 - [Ayush Kumar Sinha](https://github.com/aks151)
 - [Sushibears](https://github.com/Sushibears)
